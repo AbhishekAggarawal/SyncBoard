@@ -32,7 +32,7 @@ SyncBoard is a Notion-style application built with Next.js 13, React, Convex, an
 ### Clone the repository:
 
 ```shell
-   git clone <repository-url>
+   git clone https://github.com/AbhishekAggarawal/SyncBoard.git
 ```
 
 
