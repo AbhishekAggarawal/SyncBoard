@@ -14,7 +14,7 @@ export const Heading = () => {
   return (
     <div className="max-w-5xl space-y-4">
       <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold">
-      Organize, Plan, and Collaborate – All in One Unified Workspace. <br /> <br /> Welcome to <span className="underline">NoteSphere</span>
+      Organize, Plan, and Collaborate – All in One Unified Workspace. <br /> <br /> Welcome to <span className="underline">SyncBoard</span>
       </h1> <br />
       <h3 className="text-base sm:text-xl md:text-2xl font-medium">
       Seamlessly manage tasks, take notes, and sync ideas across your personal or team projects,
